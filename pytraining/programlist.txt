@@ -1,0 +1,19 @@
+WAP to check that entered char is special,numeric or alphabetical?
+
+
+WAP to find middle number in three different number?
+
+
+WAP to calculate marksheet using five different subject with following condition:-
+
+1 all subject marks should be 0 to 100?
+
+2 if only one subject marks is <33 than student will suppl
+
+3 if all subject marks is >33 than student will pass display division and percentage
+
+4 if minium two subject marks is <33 than student will fail
+
+5 if student pass than display distinction subject name
+
+6 in case of suppl ,if student can be pass by five grace mark than student will be pass by grace display division and percentage  and grace subject name.
