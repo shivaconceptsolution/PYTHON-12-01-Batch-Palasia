@@ -1,0 +1,10 @@
+WAP to calculate area of circle where radious will be incemeted by .1 . radious will be vary from 1.1 to 1.10?
+
+WAP to print only prime number in fabonacci series?
+
+WAP to print -1 to -5 and -5 to -1 using single while loop?
+
+WAP to calculate sum of one digit positive number with complete expression?
+
+WAP to calculate factorial of each digit of mobile number?
+

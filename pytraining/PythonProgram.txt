@@ -1,0 +1,16 @@
+Q1 WAP to split one list into two different sublist
+
+x = [12,23,34,55,67]
+x1 = [12,23]
+x2 = [34,55,67]
+
+Q2 WAP to display square of even element and cube of odd elements in LIST?
+
+Q3 WAP to find second max element in LIST
+
+Q4 WAP to count total odd number in List
+
+
+Q5 WAP calculate factorial of one digit number and table of two digit number in list otherwise no operation?
+
+

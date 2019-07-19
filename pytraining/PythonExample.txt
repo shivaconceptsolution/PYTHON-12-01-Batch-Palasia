@@ -1,0 +1,111 @@
+module concept in python:-
+..................................................................................
+
+it is a collection of methods and classes .all python predfine functionality has been defined by modules.
+
+
+module means file name where all functions and classes has defined.
+
+
+we can easily access functions and classes to another file using this.
+
+import modulename
+
+modulename.methodname()
+
+...........................................................................................................
+OOP's Programming in Python:-
+................................................................................................
+OOP'S means Object Oriented Programming Structure.it is used to create real world based application which will be used by multiple user's for real time activity.
+
+
+OOP's is a technique which will be followed by multiple programming languages.
+
+
+1 C++
+
+2 JAVA
+
+3 .NET
+
+4 PHP
+
+5 Ruby
+
+6 Python
+
+etc
+Python is a true object oriented programming language.because python provide object to store data  and it follow all rules of object orientation perfectly.
+
+
+Features                                                                 Rules
+
+1 Security                                       Data abstraction ,Encapsulation
+
+
+2 Reusebility                                   Inheritance
+
+
+3 Extendbility                                   polymorhism with Overriding
+
+
+4 Usability                                       Polymorphism with Overloading
+
+
+5 Accessbility                                    Data abstraction
+
+
+6 Dynamic memory allocation          Object
+
+.........................................................................................
+
+Mandatory Rules:
+
+Class and Object
+..................................................................................................
+
+what is class:-
+...............................................................................................
+
+class is used to define the characterstics of object using data member and member function.
+class can contain defination of single object or multiple objects.
+in case of multiple objects ,all object should be related with each other.
+
+
+Object:-  it is real world entity which has identity,state and behaviour.
+
+Syntax of class:-
+
+class Classname:
+    def Methodname(self):  #point to current address
+        statements
+
+
+Ref = Classname()
+Ref.Methodname()
+
+Ref means Address  
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,71 @@
+List:-
+.............................................................................
+List is used to provide composite variable in python .it will store multiple elements using proper sequence.
+
+list variable base index will be started from 0 to size-1
+
+it is similar to array type variable of c and cpp.
+
+
+list can contain all type of elements similar to variable rules of python.
+
+
+list is also called mutable object in python because we can change element of list from actual address.
+
+            0         1         2         3
+
+var = [item1,item2,item3,item4]
+
+var[0]=item11   #mutable variable
+
+x = [12,"a",23,True,12.3]  #different type
+y = [1,2,3,4,5]   #similar type
+
+...................................................................................................
+
+Advantage of list:-
+
+1 we can easily search and sort element from list because it store data using index pattern.
+
+
+2 list variable store multiple values hence no need to declare multiple variable in python ,we can manage all code using single variable.
+
+
+
+Disadvantage:-
+
+it is unsecure because using list address we can access all data.
+
+WAP to store elements and display sum of all list element?
+
+
+
+
+
+
+   
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

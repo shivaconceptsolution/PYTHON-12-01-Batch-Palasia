@@ -1,0 +1,11 @@
+WAP to check vowel ,consonent?
+WAP to Check greatest using four different number?
+WAP to check middle number and display ?
+WAP to check one digit,two digit and three digit number?
+WAP to display "Yes","no" and "cancel" when user press 'y','n' and 'c'?
+
+WAP to check divisibility of number from 3,5 and 9 with all combination?
+
+
+
+

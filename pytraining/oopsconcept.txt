@@ -1,0 +1,159 @@
+Component of class:-
+
+1 Data member:-
+
+Data member means variable's which will be used to define Object Attribute.
+
+Type of Data Member:-
+
+1 Class Type:-
+
+this type of data member will be define into class and share class memory to store data.
+Class Type Data member will be called by Classname.
+
+all Class type Member function contain class Type variable .it is also called static variable.
+
+it will allocate only one memory space in complete python program.
+
+
+2 Instance Type:-
+this type of data member will be defined by instance type member function .it will be called by Object.
+
+this type of member function will use self keyword to access under multiple methods.
+
+it will allocate memory at runtime. it has no limit for memory allocation means it can be assigned into multiple memory.
+
+
+
+2 Member function:-
+
+member function is used to define data member values and implement functionality to use program logic.
+Member function is also used to provide categorization of code into class.
+
+
+Type of member function
+
+1 Class type:-
+
+it is used to define class type variable.this type of member function will be called by classname .it will allocate single memory allocation in complete program.
+
+class A:
+   def fun():
+        b=20
+        print(b)
+
+A.fun()
+
+ 
+2 instance type:-
+
+this type of member function is used to define intance variable.insance type member function will be called by object and it has no limit for memory allocation.
+
+self keyword is mandatory in instance type member function which is used to point the address of current object.
+
+
+class A:
+  def fun2(self):
+      a=100  #local instance 
+      self.b=200 #global instance
+      print(a)
+      print(self.b)
+
+ref = A()
+ref.fun2()
+
+
+Type of member function according to parameters:-
+
+1 Default
+
+
+
+2 Parametrised
+
+
+3 init method or constructor:-
+
+it is used to initialize instance type data member of class when we create object.
+
+it will be called implicit when we create object.
+
+
+in python we can create only one constructor because python not support function overloading concept.
+
+
+class Classname:
+    def __init__(self):
+          self.a=100
+          self.b=200
+    def logic(self):
+         self.c=self.a+self.b
+    def display(self):
+        print(self.c)
+
+obj = Classname()
+obj.logic()
+obj.display()
+
+
+
+destructor:-
+
+destructor will be called automatically in python which is used to destroy object.
+
+we will use __del__(self): method for destructor
+
+......................................................................................................
+
+Data abstraction and Data encapsulation:-
+.................................................................................................
+abstraction means data hiding.if we want to hide data internal details of an application then we can implement data abstraction concept.
+
+if we want to hide any member function or data member in python than we can use __ symbol infront of method name.
+
+
+
+
+class Classname:
+   def __fun(self):
+       print("fun")
+
+
+
+Data encapsulation :- it is used to bind or pack all details in a single unit.
+
+python completly follow data encapsulation because all instance data will be defined under method.
+
+we should never access secure details directly it should be accessed by another member function using encapsulation.
+
+
+
+abstraction and encapsulation is used to provide better security and performance in application.
+............................................................................................................
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

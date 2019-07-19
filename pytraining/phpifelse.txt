@@ -1,0 +1,121 @@
+condition?true:false
+
+<?php
+
+$num1=5;
+$num2=10;
+$s = ($num1>$num2)?"num1 is greater":"num2 is greater";
+echo $s;
+
+?>
+
+......................................................................................................
+
+Conditional Statement in PHP:-
+..................................................................................
+it provide separate block level statement for true conditon and false condition.
+
+it contain collection of if statement and else statement to write code for true condition and false condition.
+
+type of conditional statement
+
+1 simple if:-
+
+if(condition)
+{
+    statement;
+}
+
+2 if else:-
+if(condition)
+{
+     statement;
+}
+else
+{
+     statement;
+}
+
+3 nested if-else:-
+if(condition)
+{
+    if(condition)
+    {
+
+    }
+   else
+    {
+
+
+    }
+}
+else
+{
+    if(condition)
+    {
+
+ 
+     }
+    else
+     {
+
+     }
+
+}
+
+
+4 ladder if--else:-
+
+if(condition)
+{
+    statements;
+}
+else if(condition)
+{
+    statements;
+}
+else if(condition)
+{
+   statements;
+}
+....
+else
+{
+
+}
+
+5 multiple if:-
+
+if(condition)
+{
+
+}
+if(condition)
+{
+
+}
+if(condition)
+{
+
+
+}
+....
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
